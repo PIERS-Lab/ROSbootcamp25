@@ -47,6 +47,13 @@ Copy a file (really, copy that file's data into a destination). Similar usage as
 `htop`
 `ps`
 
+`grep`
+Search for something specific.
+
+Tab completion: Use the tab key to autocomplete commands in the terminal.
+
+Up arrow: View previous commands & command history.
+
 ## We also discussed...
 
 - Basic text editors: vi, vim, emacs, nano.
