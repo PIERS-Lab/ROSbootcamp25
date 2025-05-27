@@ -13,5 +13,5 @@ Day 1 (5/27/255)
    - Discuss structure of example CMakeLists.txt and launch file from lesson 2.7 Create Your First ROS2 Program
 5. What does ROS do?
    - Structure of a [simple topic publisher](todo): queue size (rarely need to care too much about)
-   - See the [ROS concepts apple tree metaphor](https://ktiwari9.gitlab.io/ros101/JargonSection.html)
+   - Confused about all the concepts? That's okay! See the [ROS concepts apple tree metaphor](https://ktiwari9.gitlab.io/ros101/JargonSection.html)
      - _Note: Ignore "catkin" here -- that's a reference to ROS1. You can just imagine that it says says "ROS workspace"._
