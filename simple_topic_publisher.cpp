@@ -1,3 +1,5 @@
+//THIS CODE IS FROM THE CONSTRUCT AND IS COPY-PASTED BELOW FOR EDUCATIONAL PURPOSES ONLY.
+
 // Import all the necessary ROS libraries and import the Int32 message from the std_msgs package
 #include "rclcpp/rclcpp.hpp"
 #include "std_msgs/msg/int32.hpp"
