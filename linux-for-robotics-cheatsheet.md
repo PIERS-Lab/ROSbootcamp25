@@ -50,7 +50,7 @@ Copy a file (really, copy that file's data into a destination). Similar usage as
 ## We also discussed...
 
 - Basic text editors: vi, vim, emacs, nano.
-- Commands for those editors ((vim cheatsheet)[https://vim.rtorr.com/]).
+- Commands for those editors ([vim cheatsheet](https://vim.rtorr.com/)).
 - Git and github (briefly - we'll revisit this later).
 - File permissions - you won't need to change permissions for C++ code because you'll make the cpp file readable and writeable and the compiler will take care of the permissions for you. If you write in python, you may need to deal with this.
 
