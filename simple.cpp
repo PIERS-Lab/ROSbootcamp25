@@ -1,8 +1,6 @@
-# Simple cpp file example
+//THIS CODE IS FROM A LESSON BY The Construct AND IS COPY-PASTED BELOW FOR EDUCATIONAL PURPOSES ONLY.
 
-_The below is from a lesson from The Construct and is copy-pasted here for educational purposes only._
 
-```
 // Import the rclcpp client library
 #include "rclcpp/rclcpp.hpp"
 
@@ -21,4 +19,4 @@ RCLCPP_INFO(node->get_logger(), "Help me Obi-Wan Kenobi, you're my only hope");
 rclcpp::shutdown();
 return 0;
 }
-```
+
