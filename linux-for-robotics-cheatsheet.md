@@ -2,7 +2,7 @@
 
 ## Basic / most commonly-used commands
 
-_Disclaimer: These are very basic descriptions meant to jog your memory about what each command does. Some explanations are oversimplified. If you're unsure about a command, in a generally precarious situation with your code, or need more information about a command, always look it up before using it. That said, don't be too afraid to get things wrong -- as long as you are very careful with `sudo` commands, mistakes are often recoverable._
+_Disclaimer: These are very basic descriptions meant to jog your memory about what each command does. Some explanations are oversimplified. If you're unsure about a command, in a generally precarious situation with your code, or need more information about a command, always look it up before using it. That said, don't be too afraid to get things wrong -- as long as you are very careful with `sudo`  and commands and force flags (`-f1), mistakes are often recoverable._
 
 `cd`
 Change directory. `cd` by itself will take you to the home directory.
