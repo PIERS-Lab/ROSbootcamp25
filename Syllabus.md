@@ -8,3 +8,4 @@ Day 1 (5/27/255)
    - (Linux (for Robotics) Cheatsheet and Checkpoint)[linux-for-robotics-cheatsheet.md]
 4. Start (ROS2 Basics in 5 Days (C++) Course)[https://app.theconstruct.ai/courses/133]
    - (Getting Started with ROS Notes)[getting-started-ROS.md]
+   - Review of (simple cpp file)[simple-cpp.md]
