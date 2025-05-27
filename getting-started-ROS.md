@@ -11,8 +11,11 @@ ROS workspace source directory - packages live here.
 `ros2 pkg create`
 Create a ROS package (example: `ros2 pkg create wall-follower` to make a package for a robot to follow a wall).
 Can be used with...
+
 `--build-type ament_[something]` to specify the language - usually `ament_cmake` for C++.
+
 `--dependencies` to specify dependencies.
+
 Example: `ros2 pkg create --wall-follower -build-type ament_cmake --dependencies rclcpp sensor_msgs std_msgs` creates a package called `wall-follower` that uses CMake and depends on three other packages.
 
 Creating a package will give you two child directories:
