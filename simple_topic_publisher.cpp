@@ -1,4 +1,4 @@
-//THIS CODE IS FROM THE CONSTRUCT AND IS COPY-PASTED BELOW FOR EDUCATIONAL PURPOSES ONLY.
+//THIS CODE IS FROM A LESSON BY The Construct AND IS COPY-PASTED BELOW FOR EDUCATIONAL PURPOSES ONLY.
 
 // Import all the necessary ROS libraries and import the Int32 message from the std_msgs package
 #include "rclcpp/rclcpp.hpp"
