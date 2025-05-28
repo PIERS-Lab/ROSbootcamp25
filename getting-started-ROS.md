@@ -16,7 +16,7 @@ Can be used with...
 
 `--dependencies` to specify dependencies.
 
-Example: `ros2 pkg create wall-follower -build-type ament_cmake --dependencies rclcpp sensor_msgs std_msgs` creates a package called `wall-follower` that uses CMake and depends on three other packages.
+Example: `ros2 pkg create --build-type ament_cmake wall-follower --dependencies rclcpp sensor_msgs std_msgs` creates a package called `wall-follower` that uses CMake and depends on three other packages.
 
 Creating a package will give you two child directories:
 
