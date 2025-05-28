@@ -15,3 +15,9 @@ Day 1 (5/27/255)
    - Structure of a [simple topic publisher](simple_topic_publisher.app): queue size (rarely need to care too much about)
    - Confused about all the concepts? That's okay! See the [ROS concepts apple tree metaphor](https://ktiwari9.gitlab.io/ros101/JargonSection.html)
      - _Note: Ignore "catkin" here -- that's a reference to ROS1. You can just imagine that it says says "ROS workspace"._
+
+Day 2 (5/28/25)
+
+1. Review of what we learned yesterday - [Day 1 review](day1-review.md)
+
+2.
