@@ -19,5 +19,4 @@ Day 1 (5/27/255)
 Day 2 (5/28/25)
 
 1. Review of what we learned yesterday - [Day 1 review](day1-review.md)
-
-2.
+2. Work through publishers, subscribers, up through topics quiz
