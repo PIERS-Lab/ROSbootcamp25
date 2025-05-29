@@ -20,3 +20,10 @@ Day 2 (5/28/25)
 
 1. Review of what we learned yesterday - [Day 1 review](day1-review.md)
 2. Work through publishers, subscribers, up through topics quiz
+
+Day 3 (5/29/25)
+
+1. [Git and github](git-cheatsheet.md)
+   - Walkthrough of UML Race repository
+   - rviz (just an intro for now - more to come)
+   - [git and package creation assignment](day3-assigment.md)
