@@ -27,3 +27,10 @@ Day 3 (5/29/25)
    - Walkthrough of UML Race repository
    - rviz (just an intro for now - more to come)
    - [git and package creation assignment](day3-assigment.md)
+   - UML Race assignment
+
+Day 4 (5/30/25)
+
+1. Publisher/subscriber exercise
+   - Make a new package & create a publisher that publishes a std_msgs header using the current time in rostime. Check it using `ros2 topic echo /topic`.
+   - Make a second node as part of the same package. Add the sensor_msgs laser_scan dependency. Add a subscriber that subscribes to the header from your prior topic, set the header to be that, set four other fields to anything, and publish the laser scan message as is. The result should be: a publisher sends the stamp, the subscriber gets the stamp and adds it to the laser scan message - and also sets at least four of the other fields to random floats - and publishes that.
